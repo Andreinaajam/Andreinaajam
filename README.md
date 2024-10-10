@@ -10,4 +10,3 @@
 <p>A <a
 href="https://en.wikipedia.org/wiki/Markdown">link</a>.
 </p>
-https://en.wikipedia.org/wiki/Markdown
