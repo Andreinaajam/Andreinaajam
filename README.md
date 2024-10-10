@@ -8,5 +8,6 @@
 <!--[Markdown-mark.svg]()-->
 <p><img alt="Image" title="icon" src="Markdown-mark.svg" /></p>
 <p>A <a
-href="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg">link</a>.
+href="https://en.wikipedia.org/wiki/Markdown">link</a>.
 </p>
+https://en.wikipedia.org/wiki/Markdown
